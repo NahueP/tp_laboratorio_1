@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536098800 source:c:\users\nahue\desktop\tp1_calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1536098800 c:\users\nahue\desktop\tp1_calculadora\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+
+1536099457 source:c:\users\nahue\desktop\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
