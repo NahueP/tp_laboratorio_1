@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1538369554 source:c:\users\nahue\desktop\tp2_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538369796 source:c:\users\nahue\desktop\tp2_abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1538369555 c:\users\nahue\desktop\tp2_abm\arrayemployees.h
+
